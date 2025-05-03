@@ -1,0 +1,3786 @@
+{
+  "assets": {
+    "beard": {
+      "000none": {},
+      "001lilmoustache": {},
+      "002moustache": {},
+      "003curlyqmoustache": {},
+      "004thinmoustache": {},
+      "freddiemoustache": {},
+      "005fishtale": {},
+      "beard06": {},
+      "019cat-KR": {},
+      "beard05": {},
+      "goteewithoutmustache2": {},
+      "taylorbeard16": {},
+      "012korking": {},
+      "013dokaebi-KR-JP": {},
+      "prettymoustache": {},
+      "007fiveoclock": {},
+      "008stubble": {},
+      "009mediumgoatee": {},
+      "010goatee": {},
+      "011chinstrapstuble": {},
+      "NBAcabeard": {},
+      "014stubble": {},
+      "015smallbeard": {},
+      "NBAljbeard": {},
+      "sundarbeard": {},
+      "newbeard": {},
+      "taylorbeard05": {},
+      "017mediumbeard": {},
+      "016trimmedbeard": {},
+      "beard04": {},
+      "beard08": {},
+      "beard10": {},
+      "beard03": {},
+      "beard02": {},
+      "NBAhbeard": {},
+      "beard09": {},
+      "018bigbeard": {}
+    },
+    "glasses": {
+      "000none": {},
+      "010noglasses": {},
+      "009redglasses": {},
+      "008darkglasses": {},
+      "001architect": {},
+      "skigoggles": {},
+      "rainbowglasses": {},
+      "googlecardboard": {},
+      "020monocle": {},
+      "006aviators": {},
+      "taylorglasses02": {},
+      "002thomas": {},
+      "007retrogirl": {},
+      "thisglasses": {},
+      "016kimgu-KR-JP": {},
+      "017rounded": {},
+      "018squared": {},
+      "clearround": {},
+      "021frameless": {},
+      "004thomas": {},
+      "027elfglasses": {},
+      "005GD": {},
+      "taylorglasses09": {},
+      "019goldenrounded": {},
+      "013violetglasses": {},
+      "000z02asunglasses": {},
+      "012biggirlsunglasses": {},
+      "014brownglasses": {},
+      "003badass": {},
+      "dogfunk": {},
+      "011party": {},
+      "015eyepatch": {},
+      "024hipster": {},
+      "googleglassv2": {},
+      "023threed": {},
+      "aviatorgoggles": {},
+      "taylorglasses04": {},
+      "00017mardigrasmask-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY": {},
+      "011scubasnorkel": {}
+    },
+    "shoes": {
+      "0000none": {
+        "components": []
+      },
+      "001blacksneakers": {
+        "components": [],
+        "rotate": true
+      },
+      "009whitesneakers": {
+        "components": [],
+        "rotate": true
+      },
+      "029maryjane": {
+        "components": [],
+        "rotate": true
+      },
+      "036patentleatherboots": {
+        "components": [],
+        "rotate": true
+      },
+      "hockeyskates": {
+        "components": [],
+        "rotate": true
+      },
+      "redstiletto": {
+        "components": [],
+        "rotate": true
+      },
+      "whitesocks": {
+        "components": [],
+        "rotate": true
+      },
+      "046uggs": {
+        "components": [],
+        "rotate": true
+      },
+      "004greensneakers": {
+        "components": [],
+        "rotate": true
+      },
+      "005bnw": {
+        "components": [],
+        "rotate": true
+      },
+      "003hightop": {
+        "components": [],
+        "rotate": true
+      },
+      "002redsneakers": {
+        "components": [],
+        "rotate": true
+      },
+      "008canvas": {
+        "components": [],
+        "rotate": true
+      },
+      "basketballshoescolored": {
+        "components": [],
+        "rotate": true
+      },
+      "basketshoesdark": {
+        "components": [],
+        "rotate": true
+      },
+      "skateboard": {
+        "components": [],
+        "rotate": true
+      },
+      "014skater": {
+        "components": [],
+        "rotate": true
+      },
+      "pinksneaker": {
+        "components": [],
+        "rotate": true
+      },
+      "pinksneakers": {
+        "components": [],
+        "rotate": true
+      },
+      "013whitesneakers": {
+        "components": [],
+        "rotate": true
+      },
+      "016balletflatbow": {
+        "components": [],
+        "rotate": true
+      },
+      "taylorshoes14": {
+        "components": [],
+        "rotate": true
+      },
+      "018yellowflipflop": {
+        "components": [],
+        "rotate": true
+      },
+      "012tomshoes": {
+        "components": [],
+        "rotate": true
+      },
+      "flamencoshoes": {
+        "components": [],
+        "rotate": true
+      },
+      "032kittenheels": {
+        "components": [],
+        "rotate": true
+      },
+      "033heels": {
+        "components": [],
+        "rotate": true
+      },
+      "045galoshes": {
+        "components": [],
+        "rotate": true
+      },
+      "039brownboots": {
+        "components": [],
+        "rotate": true
+      },
+      "043furryboots": {
+        "components": [],
+        "rotate": true
+      },
+      "042workmanboots": {
+        "components": [],
+        "rotate": true
+      },
+      "041hikingboots": {
+        "components": [],
+        "rotate": true
+      },
+      "040texanboots": {
+        "components": [],
+        "rotate": true
+      },
+      "044snowboots": {
+        "components": [],
+        "rotate": true
+      },
+      "037bikerboots": {
+        "components": [],
+        "rotate": true
+      },
+      "platformboots": {
+        "components": [],
+        "rotate": true
+      },
+      "oldiesplatform": {
+        "components": [],
+        "rotate": true
+      },
+      "021clogs": {
+        "components": [],
+        "rotate": true
+      },
+      "027laceupdressshoebrown": {
+        "components": [],
+        "rotate": true
+      },
+      "026blackshoes": {
+        "components": [],
+        "rotate": true
+      },
+      "025dance": {
+        "components": [],
+        "rotate": true
+      },
+      "024girlshoes": {
+        "components": [],
+        "rotate": true
+      },
+      "022boatshoes": {
+        "components": [],
+        "rotate": true
+      },
+      "023brownmoccasins": {
+        "components": [],
+        "rotate": true
+      },
+      "blacksocks": {
+        "components": [],
+        "rotate": true
+      },
+      "brosockssandals": {
+        "components": [],
+        "rotate": true
+      },
+      "taylorshoes13": {
+        "components": [],
+        "rotate": true
+      },
+      "001053moonboot": {
+        "components": [],
+        "rotate": true
+      },
+      "010soccer": {
+        "components": [],
+        "rotate": true
+      },
+      "050gorillafeet": {
+        "components": [],
+        "rotate": true
+      },
+      "048rollerskates": {
+        "components": [],
+        "rotate": true
+      },
+      "wovenafircanshoes": {
+        "components": [],
+        "rotate": true
+      },
+      "001055snowbardboots": {
+        "components": [],
+        "rotate": true
+      },
+      "049scuba": {
+        "components": [],
+        "rotate": true
+      },
+      "taylorshoes57": {
+        "components": [],
+        "rotate": true
+      },
+      "koreankingshoes": {
+        "components": [],
+        "rotate": true
+      },
+      "astronautboots": {
+        "components": [],
+        "rotate": true
+      },
+      "armorboots": {
+        "components": [],
+        "rotate": true
+      },
+      "047santaboots": {
+        "components": [],
+        "rotate": true
+      },
+      "gray_shoes": {
+        "components": [],
+        "rotate": true
+      }
+    },
+    "pants": {
+      "0000none": {
+        "components": [
+          "leg"
+        ]
+      },
+      "030blue": {
+        "components": [
+          "leg"
+        ]
+      },
+      "001jeans": {
+        "components": [
+          "leg"
+        ]
+      },
+      "029black": {
+        "components": [
+          "leg"
+        ]
+      },
+      "pinkskirt": {
+        "components": [
+          "skirt"
+        ]
+      },
+      "rainbowskirt": {
+        "components": [
+          "skirt"
+        ]
+      },
+      "skirtoption02": {
+        "components": [
+          "skirt"
+        ]
+      },
+      "023kneelenghtskirt": {
+        "components": [
+          "skirt"
+        ]
+      },
+      "024miniskirt": {
+        "components": [
+          "skirt"
+        ]
+      },
+      "006shortjeans": {
+        "components": [
+          "leg"
+        ]
+      },
+      "rainbowshorts": {
+        "components": [
+          "leg"
+        ]
+      },
+      "011girlsgen": {
+        "components": [
+          "leg"
+        ]
+      },
+      "008blueshorts": {
+        "components": [
+          "leg"
+        ]
+      },
+      "010basketball": {
+        "components": [
+          "leg"
+        ]
+      },
+      "012heartboxers": {
+        "components": [
+          "leg",
+          "top"
+        ]
+      },
+      "033darkblue": {
+        "components": [
+          "leg"
+        ]
+      },
+      "013army": {
+        "components": [
+          "leg"
+        ]
+      },
+      "034white": {
+        "components": [
+          "leg"
+        ]
+      },
+      "004suitpants": {
+        "components": [
+          "leg"
+        ]
+      },
+      "newblack": {
+        "components": [
+          "leg"
+        ]
+      },
+      "kawaiipants": {
+        "components": [
+          "leg",
+          "top"
+        ]
+      },
+      "freddiepants": {
+        "components": [
+          "leg"
+        ]
+      },
+      "014cargo": {
+        "components": [
+          "leg",
+          "top"
+        ]
+      },
+      "031red": {
+        "components": [
+          "leg"
+        ]
+      },
+      "001037skipants": {
+        "components": [
+          "leg",
+          "top"
+        ]
+      },
+      "police": {
+        "components": [
+          "leg"
+        ]
+      },
+      "firefighter": {
+        "components": [
+          "leg"
+        ]
+      },
+      "003rippedpants": {
+        "components": [
+          "leg"
+        ]
+      },
+      "gothpants": {
+        "components": [
+          "leg",
+          "top"
+        ]
+      },
+      "zebraleggings": {
+        "components": [
+          "leg"
+        ]
+      },
+      "stellapants": {
+        "components": [
+          "leg"
+        ]
+      },
+      "001035pajamaboy": {
+        "components": [
+          "leg"
+        ]
+      },
+      "018sportred": {
+        "components": [
+          "leg"
+        ]
+      },
+      "015sweatpants": {
+        "components": [
+          "leg"
+        ]
+      },
+      "005khakisuit": {
+        "components": [
+          "leg"
+        ]
+      },
+      "0003funsuitpants-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY": {
+        "components": [
+          "leg"
+        ]
+      },
+      "greenwarmers": {
+        "components": [
+          "leg"
+        ]
+      },
+      "hotpinkwarmers": {
+        "components": [
+          "leg"
+        ]
+      },
+      "diaper": {
+        "components": [
+          "skirt"
+        ]
+      },
+      "009whiteshorts": {
+        "components": [
+          "leg",
+          "top"
+        ]
+      },
+      "010z0boardshort": {
+        "components": [
+          "top"
+        ]
+      },
+      "010z1castaway": {
+        "components": [
+          "leg"
+        ]
+      },
+      "taylor06": {
+        "components": [
+          "leg"
+        ]
+      },
+      "024z1grassskirt": {
+        "components": [
+          "skirt"
+        ]
+      },
+      "025stripes": {
+        "components": [
+          "leg"
+        ]
+      },
+      "retrospacepants": {
+        "components": [
+          "leg"
+        ]
+      },
+      "astronautpants": {
+        "components": [
+          "leg"
+        ]
+      },
+      "021fishnetstockings": {
+        "components": [
+          "leg"
+        ]
+      },
+      "027santa": {
+        "components": [
+          "leg"
+        ]
+      },
+      "001038santaskirt": {
+        "components": [
+          "skirt"
+        ]
+      }
+    },
+    "hair": {
+      "0000none": {
+        "components": []
+      },
+      "001crew": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "006side": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "024doublepigtail": {
+        "components": [
+          "back",
+          "backextra",
+          "front"
+        ]
+      },
+      "065baby": {
+        "components": [
+          "back"
+        ]
+      },
+      "dreadlocks": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "038messy_medium": {
+        "components": [
+          "front"
+        ]
+      },
+      "066baldshag": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "003messy": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "animelonghair": {
+        "components": [
+          "front",
+          "frontextra"
+        ]
+      },
+      "cornrows": {
+        "components": [
+          "front",
+          "frontextra"
+        ]
+      },
+      "008receding": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "028curlyshort": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "mohawk": {
+        "components": [
+          "front"
+        ]
+      },
+      "004ducktail": {
+        "components": [
+          "front"
+        ]
+      },
+      "005sideburns": {
+        "components": [
+          "front"
+        ]
+      },
+      "twocoloredhair": {
+        "components": [
+          "front",
+          "frontextra"
+        ]
+      },
+      "020structuredbob": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "007gd": {
+        "components": [
+          "front"
+        ]
+      },
+      "037emo": {
+        "components": [
+          "front"
+        ]
+      },
+      "036emo": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "017pixie": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "gghair": {
+        "components": [
+          "front",
+          "frontextra"
+        ]
+      },
+      "0364sidepartbob": {
+        "components": [
+          "front"
+        ]
+      },
+      "054fro": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "009side": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "029curly": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "031fromedium": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "032bigcurlyfro": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "033afro": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "afropuffs": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "0362retro": {
+        "components": [
+          "front"
+        ]
+      },
+      "011flattop": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "049pompadour": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "013tuft": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "022emolonger": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "019mediumbob": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "0361fashion": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "0360middlepart": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "018girlfull_medium": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "0363sidepartmedium": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "0365straightbangs": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "035superbob": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "023ponytail_small": {
+        "components": [
+          "back",
+          "backextra",
+          "front"
+        ]
+      },
+      "flamencohair": {
+        "components": [
+          "back",
+          "front",
+          "frontextra"
+        ]
+      },
+      "025sidebraid": {
+        "components": [
+          "back",
+          "front",
+          "frontextra"
+        ]
+      },
+      "026medievalplaits": {
+        "components": [
+          "back",
+          "front",
+          "frontextra"
+        ]
+      },
+      "hair": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "japanesekid": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "0360bang": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "053korqueen-KR": {
+        "components": [
+          "back",
+          "backextra",
+          "front"
+        ]
+      },
+      "039longhair": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "045fringe": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "044long_curly": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "040long_wavy": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "taylorhair49": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "041girlfull": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "043girfullside": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "034sidelongstraight": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "042messylong": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "046layered": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "nativeheadband": {
+        "components": [
+          "back",
+          "front",
+          "frontextra"
+        ]
+      },
+      "047rocker": {
+        "components": [
+          "back",
+          "front",
+          "frontextra"
+        ]
+      },
+      "glitterexuberanhair": {
+        "components": [
+          "backextra",
+          "frontextra"
+        ]
+      },
+      "052beehive": {
+        "components": [
+          "back",
+          "backextra",
+          "front"
+        ]
+      },
+      "051updomessy": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "050updocasual": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "034mullet": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "021fro": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "055sidebuns": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "012part": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "sundarhair": {
+        "components": [
+          "front"
+        ]
+      },
+      "016boy": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "002messy_part": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "015spiky": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "014spiky": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "060widowpeak": {
+        "components": [
+          "front"
+        ]
+      },
+      "057spikes": {
+        "components": [
+          "front"
+        ]
+      },
+      "freddiehair": {
+        "components": [
+          "front"
+        ]
+      },
+      "058shaved": {
+        "components": [
+          "front"
+        ]
+      },
+      "combovervs": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "cowlick": {
+        "components": [
+          "front"
+        ]
+      },
+      "063marine-KR-JP": {
+        "components": [
+          "front"
+        ]
+      },
+      "067baldshort": {
+        "components": [
+          "back",
+          "front"
+        ]
+      },
+      "059very_short": {
+        "components": [
+          "front"
+        ]
+      },
+      "061domeshort": {
+        "components": [
+          "front"
+        ]
+      },
+      "colorfulponytail": {
+        "components": [
+          "backextra",
+          "frontextra"
+        ]
+      },
+      "unicornhorn": {
+        "components": [
+          "back",
+          "front",
+          "frontextra"
+        ]
+      }
+    },
+    "shirt": {
+      "0000none": {
+        "components": [
+          "body"
+        ]
+      },
+      "067whitetee": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "075blacktee": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "001redplaid": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "016tanktopskirt": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "purplecocktaildress": {
+        "components": [
+          "top"
+        ]
+      },
+      "catlove": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "030z1openbuttondown": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "027lbd": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "053leatherjacket": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "taylorshirt07": {
+        "components": [
+          "top"
+        ]
+      },
+      "angel": {
+        "components": [
+          "bottom"
+        ]
+      },
+      "057army": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "police": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "firefighterjacket": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "firemanbraces": {
+        "components": [
+          "top"
+        ]
+      },
+      "003bluetshirt": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "072redtee": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "071greentee": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "068tshirtdress": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "google": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "g": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "pixeldroid": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "gayglers": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "kawaiishirt": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "sailorgirl": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "stelladress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "008tunic": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "005z2french": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "037sailor": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "tanktop": {
+        "components": [
+          "body"
+        ]
+      },
+      "035z1musclechest": {
+        "components": [
+          "bottom"
+        ]
+      },
+      "062bathingsuit": {
+        "components": [
+          "bottom"
+        ]
+      },
+      "skybluebikini": {
+        "components": [
+          "bottom"
+        ]
+      },
+      "rainbowbikini": {
+        "components": [
+          "bottom"
+        ]
+      },
+      "jewelbikini": {
+        "components": [
+          "bottom"
+        ]
+      },
+      "063bikini": {
+        "components": [
+          "bottom"
+        ]
+      },
+      "017cutedress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "018summerdress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "015summerdress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "014shirtdress": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "019z3whitelittledress": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "046football": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "soccer2": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "basketballjersey": {
+        "components": [
+          "body"
+        ]
+      },
+      "hockeyjersey": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "048karate": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "top",
+          "shoulder"
+        ]
+      },
+      "cricketjersey": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "torero": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "emogirldress": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "goldsuit": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "074skater": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "005z1hawaiianshirt": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "004shortsleeveshirt": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "006white": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "002blueplaid": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "blueoxfordshirt": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "005pink": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "007black": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "019minidress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "022receptionist": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "013tunic": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "019z2sexydress": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "schooluniform": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "024lavandadress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "gown": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "025reddress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "026wrapdress": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "taylorshirt06": {
+        "components": [
+          "body"
+        ]
+      },
+      "sparklecocktaildress": {
+        "components": [
+          "top"
+        ]
+      },
+      "019z1dresswtie": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "whitesuit": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "030suit": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "029suit": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "028tux": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "blacksuit": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "036ladywinter": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "038teeblazer": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "023scarfdress": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "greyhoody": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "031violetsweater": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "sundarshirt": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "033grey": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "032vneckblack": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "browncoat": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "035cardiganshirt": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "pridetanktop": {
+        "components": [
+          "body"
+        ]
+      },
+      "tattoo": {
+        "components": [
+          "arm",
+          "top",
+          "shoulder"
+        ]
+      },
+      "043stripes": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "041hoodysweatkan": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "039blackstripes": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "034punk": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "044sportsred": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "040collegeandroid": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "skisweater": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "001084woolsweater": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "001088skicoat": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "052coatunisex": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "001087furcoat": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "silverpufferjacket": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "051spy": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "freddie": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "rockbeatitjacket": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "060night": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "taylorshirt03": {
+        "components": [
+          "top"
+        ]
+      },
+      "snowman": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "rudolphsweater": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "001090holidaysweater": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "golddress": {
+        "components": [
+          "body",
+          "top"
+        ]
+      },
+      "063z1coconutbra": {
+        "components": [
+          "top"
+        ]
+      },
+      "063z2sarong": {
+        "components": [
+          "top"
+        ]
+      },
+      "035z2baxterhair": {
+        "components": [
+          "top"
+        ]
+      },
+      "taylorshirt04": {
+        "components": [
+          "body",
+          "bottom",
+          "top"
+        ]
+      },
+      "labcoat": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "taylorshirt29": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "069flagtee": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "001085pajamaboy": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "taylorshirt34": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "cloak": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "bluedot": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "purpleshirt": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "retrospacesuit": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "astronautsuit": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "pinktunic": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "gujarati": {
+        "components": [
+          "arm",
+          "top",
+          "shoulder"
+        ]
+      },
+      "flamenco": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "thwab": {
+        "components": [
+          "arm",
+          "body",
+          "bottom",
+          "shoulder"
+        ]
+      },
+      "koreanking": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "082blackkimono": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      },
+      "020king": {
+        "components": [
+          "arm",
+          "body",
+          "shoulder"
+        ]
+      },
+      "059santa": {
+        "components": [
+          "arm",
+          "body",
+          "top",
+          "shoulder"
+        ]
+      }
+    },
+    "head": {
+      "000000none": {
+        "components": []
+      },
+      "018tophat": {
+        "components": [
+          "head"
+        ]
+      },
+      "bowv3": {
+        "components": [
+          "head"
+        ]
+      },
+      "016redhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "005flower": {
+        "components": [
+          "hat"
+        ]
+      },
+      "greenknit": {
+        "components": [
+          "hat"
+        ]
+      },
+      "fruitheaddress": {
+        "components": [
+          "hat"
+        ]
+      },
+      "010headphones": {
+        "components": [
+          "head"
+        ]
+      },
+      "dogonhead": {
+        "components": [
+          "head"
+        ]
+      },
+      "catonhead": {
+        "components": [
+          "head"
+        ]
+      },
+      "pandahat": {
+        "components": [
+          "head"
+        ]
+      },
+      "catears": {
+        "components": [
+          "head"
+        ]
+      },
+      "cowboyhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "032captain": {
+        "components": [
+          "head"
+        ]
+      },
+      "022frenchberet": {
+        "components": [
+          "head"
+        ]
+      },
+      "afrowig": {
+        "components": [
+          "head"
+        ]
+      },
+      "025bikehelmet": {
+        "components": [
+          "head"
+        ]
+      },
+      "crickethelmet": {
+        "components": [
+          "head"
+        ]
+      },
+      "hockeyhelmet": {
+        "components": [
+          "head"
+        ]
+      },
+      "fedora": {
+        "components": [
+          "head"
+        ]
+      },
+      "blackhijab": {
+        "components": [
+          "hat"
+        ]
+      },
+      "pinkhijab": {
+        "components": [
+          "hat"
+        ]
+      },
+      "headscarfnavy": {
+        "components": [
+          "hat"
+        ]
+      },
+      "shemagh": {
+        "components": [
+          "head"
+        ]
+      },
+      "keffiyeh": {
+        "components": [
+          "hat"
+        ]
+      },
+      "turbanwhite": {
+        "components": [
+          "hat"
+        ]
+      },
+      "turbantan": {
+        "components": [
+          "hat"
+        ]
+      },
+      "turbanblack": {
+        "components": [
+          "hat"
+        ]
+      },
+      "turbanred": {
+        "components": [
+          "hat"
+        ]
+      },
+      "023combathelmet": {
+        "components": [
+          "head"
+        ]
+      },
+      "rainbowheadband": {
+        "components": [
+          "face"
+        ]
+      },
+      "020pirate": {
+        "components": [
+          "head"
+        ]
+      },
+      "027africanhunter": {
+        "components": [
+          "head"
+        ]
+      },
+      "019chef": {
+        "components": [
+          "head"
+        ]
+      },
+      "taylor01": {
+        "components": [
+          "head"
+        ]
+      },
+      "001073earmuffs": {
+        "components": [
+          "head"
+        ]
+      },
+      "013redbeanie": {
+        "components": [
+          "hat"
+        ]
+      },
+      "taylor05": {
+        "components": [
+          "hat"
+        ]
+      },
+      "netshat": {
+        "components": [
+          "head"
+        ]
+      },
+      "015beanie": {
+        "components": [
+          "hat"
+        ]
+      },
+      "014russiansmall": {
+        "components": [
+          "hat"
+        ]
+      },
+      "001089aviatorhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "skihat": {
+        "components": [
+          "hat"
+        ]
+      },
+      "012spyhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "bikerleatherhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "yellowhatkid": {
+        "components": [
+          "head"
+        ]
+      },
+      "001075eskimo": {
+        "components": [
+          "head"
+        ]
+      },
+      "taylor14": {
+        "components": [
+          "head"
+        ]
+      },
+      "graduationcap": {
+        "components": [
+          "head"
+        ]
+      },
+      "firefighterhelmet": {
+        "components": [
+          "head"
+        ]
+      },
+      "policehat": {
+        "components": [
+          "head"
+        ]
+      },
+      "schoolhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "017androidhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "024texanhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "001083partyhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "crown": {
+        "components": [
+          "head"
+        ]
+      },
+      "taylor31": {
+        "components": [
+          "head"
+        ]
+      },
+      "headband": {
+        "components": [
+          "hat",
+          "face"
+        ]
+      },
+      "032z1strawhat": {
+        "components": [
+          "head"
+        ]
+      },
+      "leafcrown": {
+        "components": [
+          "hat"
+        ]
+      },
+      "021noogle": {
+        "components": [
+          "head"
+        ]
+      },
+      "goprohelmet": {
+        "components": [
+          "hat"
+        ]
+      },
+      "astronauthelmet": {
+        "components": [
+          "hat"
+        ]
+      },
+      "retrospacehelmet": {
+        "components": [
+          "hat"
+        ]
+      },
+      "001077skihat": {
+        "components": [
+          "hat"
+        ]
+      },
+      "wizardshat": {
+        "components": [
+          "head"
+        ]
+      },
+      "026sleepingcap": {
+        "components": [
+          "head"
+        ]
+      },
+      "torerohat": {
+        "components": [
+          "head"
+        ]
+      },
+      "00008kufihat-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY": {
+        "components": [
+          "head"
+        ]
+      },
+      "koreankingcrown": {
+        "components": [
+          "head"
+        ]
+      },
+      "001086antlers": {
+        "components": [
+          "face"
+        ]
+      },
+      "028santahat": {
+        "components": [
+          "head"
+        ]
+      }
+    },
+    "body": {
+      "000000none": {
+        "components": []
+      },
+      "goldnecklace": {
+        "components": [
+          "body"
+        ]
+      },
+      "hawaiiLei": {
+        "components": [
+          "body"
+        ]
+      },
+      "slr": {
+        "components": [
+          "body"
+        ]
+      },
+      "001092scarf": {
+        "components": [
+          "body"
+        ]
+      },
+      "leavesscarf": {
+        "components": [
+          "body"
+        ]
+      },
+      "boa": {
+        "components": [
+          "body"
+        ]
+      },
+      "gujaratikerchief": {
+        "components": [
+          "body"
+        ]
+      },
+      "049greyscarf": {
+        "components": [
+          "body"
+        ]
+      },
+      "pinkscarf": {
+        "components": [
+          "body"
+        ]
+      },
+      "050scarf": {
+        "components": [
+          "body"
+        ]
+      },
+      "033pearls": {
+        "components": [
+          "body"
+        ]
+      },
+      "040shortnecklace": {
+        "components": [
+          "body"
+        ]
+      },
+      "039reddishnecklace": {
+        "components": [
+          "body"
+        ]
+      },
+      "041heartnecklace": {
+        "components": [
+          "body"
+        ]
+      },
+      "038shapesnecklace": {
+        "components": [
+          "body"
+        ]
+      },
+      "042medallion": {
+        "components": [
+          "body"
+        ]
+      },
+      "goldnecklace01": {
+        "components": [
+          "body"
+        ]
+      },
+      "candynecklacev3": {
+        "components": [
+          "body"
+        ]
+      },
+      "061waistbag-KR": {
+        "components": [
+          "body"
+        ]
+      },
+      "055babydroidgirl": {
+        "components": [
+          "body"
+        ]
+      },
+      "054babydroidboy": {
+        "components": [
+          "body"
+        ]
+      }
+    },
+    "face": {
+      "000000none": {
+        "components": []
+      },
+      "058pipe": {
+        "components": [
+          "mouth"
+        ]
+      },
+      "001freckles": {
+        "components": [
+          "face"
+        ]
+      },
+      "003scar": {
+        "components": [
+          "face"
+        ]
+      },
+      "beautymark": {
+        "components": [
+          "face"
+        ]
+      },
+      "004kiss": {
+        "components": [
+          "face"
+        ]
+      },
+      "002blush": {
+        "components": [
+          "face"
+        ]
+      },
+      "footballblackeyes": {
+        "components": [
+          "face"
+        ]
+      },
+      "cavemanbrowv5": {
+        "components": [
+          "face",
+          "head"
+        ]
+      },
+      "006bindi": {
+        "components": [
+          "face"
+        ]
+      },
+      "009bluetooth": {
+        "components": [
+          "face"
+        ]
+      },
+      "044gold": {
+        "components": [
+          "earring"
+        ]
+      },
+      "dogv2": {
+        "components": [
+          "head"
+        ]
+      },
+      "pigv4": {
+        "components": [
+          "head"
+        ]
+      },
+      "065mask": {
+        "components": [
+          "head"
+        ]
+      },
+      "001087rudolphnose": {
+        "components": [
+          "head"
+        ]
+      }
+    },
+    "arm": {
+      "000000none": {
+        "components": []
+      },
+      "rubberduck": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "047purse": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "00009cavaquinho-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "068rose": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "hotchocolate": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "soccerball": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "taylor61": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "nexusgrey": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "nexusblue": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "tablet": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "chromelaptop": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "057coffee": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "takeawaycoffee": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "bubbletea": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "063turkey": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "taylor63": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "blindstick": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "043bracelet": {
+        "components": [
+          "onrighthand"
+        ]
+      },
+      "045blackwatch": {
+        "components": [
+          "onlefthand"
+        ]
+      },
+      "046goldwatch": {
+        "components": [
+          "onrighthand"
+        ]
+      },
+      "smartwatch": {
+        "components": [
+          "onlefthand"
+        ]
+      },
+      "watch": {
+        "components": [
+          "onrighthand"
+        ]
+      },
+      "rainbowwristband": {
+        "components": [
+          "sleeve"
+        ]
+      },
+      "047z5beer": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "047z7champagne": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "047z8glassochampagne": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "047z9vodka": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "059glassowine": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "metalgoblet": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "001072furmittens": {
+        "components": [
+          "onbothhands"
+        ]
+      },
+      "051mittens": {
+        "components": [
+          "onbothhands"
+        ]
+      },
+      "greenwintergloves": {
+        "components": [
+          "onbothhands"
+        ]
+      },
+      "052boxing": {
+        "components": [
+          "onbothhands"
+        ]
+      },
+      "048clutch": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "beachbag": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "backpack": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "longchampwomansbag": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "totebag": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "genericpackage": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "skateboard": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "cricketbat": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "taylor71": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "069paddle": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "tennisracquet": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "hockeystick": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "golfclub01": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "capote": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "001079skipoles": {
+        "components": [
+          "onbothhands"
+        ]
+      },
+      "xboxcontrollerv3": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "starwand": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "doll": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "taylor67": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "spraycan": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "taylor65": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "047z4sword": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "pencil": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "artistpaintbrush": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "056book": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "newspaper": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "skeletonkeyv2": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "violin": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "ukelele": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "taylor77": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "ballons": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "001071gift": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "ring": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "trumpet": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "clarinet": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "bagpipe": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "tambourine": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "00002drums-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "067mic": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "098horn": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "047z1cheese": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "047z2banana": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "cupcake": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "lollipopv2": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "047z3baguette": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "icecreamsandwichvs": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "icecreamcone": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "rollingpinv2": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "sciencebeakerv2": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "064lasergun": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "fan": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "prideflag": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "053glove": {
+        "components": [
+          "onlefthand"
+        ]
+      },
+      "089candle": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "072dreidel": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "nutcracker": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "gingerbreadcookie": {
+        "components": [
+          "inlefthand"
+        ]
+      },
+      "001084candycane": {
+        "components": [
+          "inrighthand"
+        ]
+      },
+      "mehndi": {
+        "components": [
+          "sleeve"
+        ]
+      },
+      "iandroidnytattoo": {
+        "components": [
+          "arm",
+          "shoulder"
+        ]
+      }
+    },
+    "animation": {
+      "basketball": {},
+      "drums": {},
+      "dust": {},
+      "five": {},
+      "ha": {},
+      "hankerchief": {},
+      "he": {},
+      "heart": {},
+      "lolli": {},
+      "peace_fingers": {},
+      "phone": {},
+      "popcornbag": {},
+      "prideflag": {},
+      "smack": {},
+      "steam": {},
+      "tear": {},
+      "z": {},
+      "zzzzz": {}
+    },
+    "skin": {
+      "antenna": {},
+      "arm": {},
+      "body": {},
+      "eye": {},
+      "foot": {},
+      "hand": {},
+      "head": {},
+      "leg": {},
+      "shoulder": {}
+    }
+  },
+  "assetsOrder": {
+    "beard": [
+      "000none",
+      "001lilmoustache",
+      "002moustache",
+      "003curlyqmoustache",
+      "004thinmoustache",
+      "freddiemoustache",
+      "005fishtale",
+      "beard06",
+      "019cat-KR",
+      "beard05",
+      "goteewithoutmustache2",
+      "taylorbeard16",
+      "012korking",
+      "013dokaebi-KR-JP",
+      "prettymoustache",
+      "007fiveoclock",
+      "008stubble",
+      "009mediumgoatee",
+      "010goatee",
+      "011chinstrapstuble",
+      "NBAcabeard",
+      "014stubble",
+      "015smallbeard",
+      "NBAljbeard",
+      "sundarbeard",
+      "newbeard",
+      "taylorbeard05",
+      "017mediumbeard",
+      "016trimmedbeard",
+      "beard04",
+      "beard08",
+      "beard10",
+      "beard03",
+      "beard02",
+      "NBAhbeard",
+      "beard09",
+      "018bigbeard"
+    ],
+    "glasses": [
+      "000none",
+      "010noglasses",
+      "009redglasses",
+      "008darkglasses",
+      "001architect",
+      "skigoggles",
+      "rainbowglasses",
+      "googlecardboard",
+      "020monocle",
+      "006aviators",
+      "taylorglasses02",
+      "002thomas",
+      "007retrogirl",
+      "thisglasses",
+      "016kimgu-KR-JP",
+      "017rounded",
+      "018squared",
+      "clearround",
+      "021frameless",
+      "004thomas",
+      "027elfglasses",
+      "005GD",
+      "taylorglasses09",
+      "019goldenrounded",
+      "013violetglasses",
+      "000z02asunglasses",
+      "012biggirlsunglasses",
+      "014brownglasses",
+      "003badass",
+      "dogfunk",
+      "011party",
+      "015eyepatch",
+      "024hipster",
+      "googleglassv2",
+      "023threed",
+      "aviatorgoggles",
+      "taylorglasses04",
+      "00017mardigrasmask-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY",
+      "011scubasnorkel"
+    ],
+    "shoes": [
+      "0000none",
+      "001blacksneakers",
+      "009whitesneakers",
+      "029maryjane",
+      "036patentleatherboots",
+      "hockeyskates",
+      "redstiletto",
+      "whitesocks",
+      "046uggs",
+      "004greensneakers",
+      "005bnw",
+      "003hightop",
+      "002redsneakers",
+      "008canvas",
+      "basketballshoescolored",
+      "basketshoesdark",
+      "skateboard",
+      "014skater",
+      "pinksneaker",
+      "pinksneakers",
+      "013whitesneakers",
+      "016balletflatbow",
+      "taylorshoes14",
+      "018yellowflipflop",
+      "012tomshoes",
+      "flamencoshoes",
+      "032kittenheels",
+      "033heels",
+      "045galoshes",
+      "039brownboots",
+      "043furryboots",
+      "042workmanboots",
+      "041hikingboots",
+      "040texanboots",
+      "044snowboots",
+      "037bikerboots",
+      "platformboots",
+      "oldiesplatform",
+      "021clogs",
+      "027laceupdressshoebrown",
+      "026blackshoes",
+      "025dance",
+      "024girlshoes",
+      "022boatshoes",
+      "023brownmoccasins",
+      "blacksocks",
+      "brosockssandals",
+      "taylorshoes13",
+      "001053moonboot",
+      "010soccer",
+      "050gorillafeet",
+      "048rollerskates",
+      "wovenafircanshoes",
+      "001055snowbardboots",
+      "049scuba",
+      "taylorshoes57",
+      "koreankingshoes",
+      "astronautboots",
+      "armorboots",
+      "047santaboots",
+      "gray_shoes"
+    ],
+    "pants": [
+      "0000none",
+      "030blue",
+      "001jeans",
+      "029black",
+      "pinkskirt",
+      "rainbowskirt",
+      "skirtoption02",
+      "023kneelenghtskirt",
+      "024miniskirt",
+      "006shortjeans",
+      "rainbowshorts",
+      "011girlsgen",
+      "008blueshorts",
+      "010basketball",
+      "012heartboxers",
+      "033darkblue",
+      "013army",
+      "034white",
+      "004suitpants",
+      "newblack",
+      "kawaiipants",
+      "freddiepants",
+      "014cargo",
+      "031red",
+      "001037skipants",
+      "police",
+      "firefighter",
+      "003rippedpants",
+      "gothpants",
+      "zebraleggings",
+      "stellapants",
+      "001035pajamaboy",
+      "018sportred",
+      "015sweatpants",
+      "005khakisuit",
+      "0003funsuitpants-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY",
+      "greenwarmers",
+      "hotpinkwarmers",
+      "diaper",
+      "009whiteshorts",
+      "010z0boardshort",
+      "010z1castaway",
+      "taylor06",
+      "024z1grassskirt",
+      "025stripes",
+      "retrospacepants",
+      "astronautpants",
+      "021fishnetstockings",
+      "027santa",
+      "001038santaskirt"
+    ],
+    "hair": [
+      "0000none",
+      "001crew",
+      "006side",
+      "024doublepigtail",
+      "065baby",
+      "dreadlocks",
+      "038messy_medium",
+      "066baldshag",
+      "003messy",
+      "animelonghair",
+      "cornrows",
+      "008receding",
+      "028curlyshort",
+      "mohawk",
+      "004ducktail",
+      "005sideburns",
+      "twocoloredhair",
+      "020structuredbob",
+      "007gd",
+      "037emo",
+      "036emo",
+      "017pixie",
+      "gghair",
+      "0364sidepartbob",
+      "054fro",
+      "009side",
+      "029curly",
+      "031fromedium",
+      "032bigcurlyfro",
+      "033afro",
+      "afropuffs",
+      "0362retro",
+      "011flattop",
+      "049pompadour",
+      "013tuft",
+      "022emolonger",
+      "019mediumbob",
+      "0361fashion",
+      "0360middlepart",
+      "018girlfull_medium",
+      "0363sidepartmedium",
+      "0365straightbangs",
+      "035superbob",
+      "023ponytail_small",
+      "flamencohair",
+      "025sidebraid",
+      "026medievalplaits",
+      "hair",
+      "japanesekid",
+      "0360bang",
+      "053korqueen-KR",
+      "039longhair",
+      "045fringe",
+      "044long_curly",
+      "040long_wavy",
+      "taylorhair49",
+      "041girlfull",
+      "043girfullside",
+      "034sidelongstraight",
+      "042messylong",
+      "046layered",
+      "nativeheadband",
+      "047rocker",
+      "glitterexuberanhair",
+      "052beehive",
+      "051updomessy",
+      "050updocasual",
+      "034mullet",
+      "021fro",
+      "055sidebuns",
+      "012part",
+      "sundarhair",
+      "016boy",
+      "002messy_part",
+      "015spiky",
+      "014spiky",
+      "060widowpeak",
+      "057spikes",
+      "freddiehair",
+      "058shaved",
+      "combovervs",
+      "cowlick",
+      "063marine-KR-JP",
+      "067baldshort",
+      "059very_short",
+      "061domeshort",
+      "colorfulponytail",
+      "unicornhorn"
+    ],
+    "shirt": [
+      "0000none",
+      "067whitetee",
+      "075blacktee",
+      "001redplaid",
+      "016tanktopskirt",
+      "purplecocktaildress",
+      "catlove",
+      "030z1openbuttondown",
+      "027lbd",
+      "053leatherjacket",
+      "taylorshirt07",
+      "angel",
+      "057army",
+      "police",
+      "firefighterjacket",
+      "firemanbraces",
+      "003bluetshirt",
+      "072redtee",
+      "071greentee",
+      "068tshirtdress",
+      "google",
+      "g",
+      "pixeldroid",
+      "gayglers",
+      "kawaiishirt",
+      "sailorgirl",
+      "stelladress",
+      "008tunic",
+      "005z2french",
+      "037sailor",
+      "tanktop",
+      "035z1musclechest",
+      "062bathingsuit",
+      "skybluebikini",
+      "rainbowbikini",
+      "jewelbikini",
+      "063bikini",
+      "017cutedress",
+      "018summerdress",
+      "015summerdress",
+      "014shirtdress",
+      "019z3whitelittledress",
+      "046football",
+      "soccer2",
+      "basketballjersey",
+      "hockeyjersey",
+      "048karate",
+      "cricketjersey",
+      "torero",
+      "emogirldress",
+      "goldsuit",
+      "074skater",
+      "005z1hawaiianshirt",
+      "004shortsleeveshirt",
+      "006white",
+      "002blueplaid",
+      "blueoxfordshirt",
+      "005pink",
+      "007black",
+      "019minidress",
+      "022receptionist",
+      "013tunic",
+      "019z2sexydress",
+      "schooluniform",
+      "024lavandadress",
+      "gown",
+      "025reddress",
+      "026wrapdress",
+      "taylorshirt06",
+      "sparklecocktaildress",
+      "019z1dresswtie",
+      "whitesuit",
+      "030suit",
+      "029suit",
+      "028tux",
+      "blacksuit",
+      "036ladywinter",
+      "038teeblazer",
+      "023scarfdress",
+      "greyhoody",
+      "031violetsweater",
+      "sundarshirt",
+      "033grey",
+      "032vneckblack",
+      "browncoat",
+      "035cardiganshirt",
+      "pridetanktop",
+      "tattoo",
+      "043stripes",
+      "041hoodysweatkan",
+      "039blackstripes",
+      "034punk",
+      "044sportsred",
+      "040collegeandroid",
+      "skisweater",
+      "001084woolsweater",
+      "001088skicoat",
+      "052coatunisex",
+      "001087furcoat",
+      "silverpufferjacket",
+      "051spy",
+      "freddie",
+      "rockbeatitjacket",
+      "060night",
+      "taylorshirt03",
+      "snowman",
+      "rudolphsweater",
+      "001090holidaysweater",
+      "golddress",
+      "063z1coconutbra",
+      "063z2sarong",
+      "035z2baxterhair",
+      "taylorshirt04",
+      "labcoat",
+      "taylorshirt29",
+      "069flagtee",
+      "001085pajamaboy",
+      "taylorshirt34",
+      "cloak",
+      "bluedot",
+      "purpleshirt",
+      "retrospacesuit",
+      "astronautsuit",
+      "pinktunic",
+      "gujarati",
+      "flamenco",
+      "thwab",
+      "koreanking",
+      "082blackkimono",
+      "020king",
+      "059santa"
+    ],
+    "head": [
+      "000000none",
+      "018tophat",
+      "bowv3",
+      "016redhat",
+      "005flower",
+      "greenknit",
+      "fruitheaddress",
+      "010headphones",
+      "dogonhead",
+      "catonhead",
+      "pandahat",
+      "catears",
+      "cowboyhat",
+      "032captain",
+      "022frenchberet",
+      "afrowig",
+      "025bikehelmet",
+      "crickethelmet",
+      "hockeyhelmet",
+      "fedora",
+      "blackhijab",
+      "pinkhijab",
+      "headscarfnavy",
+      "shemagh",
+      "keffiyeh",
+      "turbanwhite",
+      "turbantan",
+      "turbanblack",
+      "turbanred",
+      "023combathelmet",
+      "rainbowheadband",
+      "020pirate",
+      "027africanhunter",
+      "019chef",
+      "taylor01",
+      "001073earmuffs",
+      "013redbeanie",
+      "taylor05",
+      "netshat",
+      "015beanie",
+      "014russiansmall",
+      "001089aviatorhat",
+      "skihat",
+      "012spyhat",
+      "bikerleatherhat",
+      "yellowhatkid",
+      "001075eskimo",
+      "taylor14",
+      "graduationcap",
+      "firefighterhelmet",
+      "policehat",
+      "schoolhat",
+      "017androidhat",
+      "024texanhat",
+      "001083partyhat",
+      "crown",
+      "taylor31",
+      "headband",
+      "032z1strawhat",
+      "leafcrown",
+      "021noogle",
+      "goprohelmet",
+      "astronauthelmet",
+      "retrospacehelmet",
+      "001077skihat",
+      "wizardshat",
+      "026sleepingcap",
+      "torerohat",
+      "00008kufihat-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY",
+      "koreankingcrown",
+      "001086antlers",
+      "028santahat"
+    ],
+    "body": [
+      "000000none",
+      "goldnecklace",
+      "hawaiiLei",
+      "slr",
+      "001092scarf",
+      "leavesscarf",
+      "boa",
+      "gujaratikerchief",
+      "049greyscarf",
+      "pinkscarf",
+      "050scarf",
+      "033pearls",
+      "040shortnecklace",
+      "039reddishnecklace",
+      "041heartnecklace",
+      "038shapesnecklace",
+      "042medallion",
+      "goldnecklace01",
+      "candynecklacev3",
+      "061waistbag-KR",
+      "055babydroidgirl",
+      "054babydroidboy"
+    ],
+    "face": [
+      "000000none",
+      "058pipe",
+      "001freckles",
+      "003scar",
+      "beautymark",
+      "004kiss",
+      "002blush",
+      "footballblackeyes",
+      "cavemanbrowv5",
+      "006bindi",
+      "009bluetooth",
+      "044gold",
+      "dogv2",
+      "pigv4",
+      "065mask",
+      "001087rudolphnose"
+    ],
+    "arm": [
+      "000000none",
+      "rubberduck",
+      "047purse",
+      "00009cavaquinho-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY",
+      "068rose",
+      "hotchocolate",
+      "soccerball",
+      "taylor61",
+      "nexusgrey",
+      "nexusblue",
+      "tablet",
+      "chromelaptop",
+      "057coffee",
+      "takeawaycoffee",
+      "bubbletea",
+      "063turkey",
+      "taylor63",
+      "blindstick",
+      "043bracelet",
+      "045blackwatch",
+      "046goldwatch",
+      "smartwatch",
+      "watch",
+      "rainbowwristband",
+      "047z5beer",
+      "047z7champagne",
+      "047z8glassochampagne",
+      "047z9vodka",
+      "059glassowine",
+      "metalgoblet",
+      "001072furmittens",
+      "051mittens",
+      "greenwintergloves",
+      "052boxing",
+      "048clutch",
+      "beachbag",
+      "backpack",
+      "longchampwomansbag",
+      "totebag",
+      "genericpackage",
+      "skateboard",
+      "cricketbat",
+      "taylor71",
+      "069paddle",
+      "tennisracquet",
+      "hockeystick",
+      "golfclub01",
+      "capote",
+      "001079skipoles",
+      "xboxcontrollerv3",
+      "starwand",
+      "doll",
+      "taylor67",
+      "spraycan",
+      "taylor65",
+      "047z4sword",
+      "pencil",
+      "artistpaintbrush",
+      "056book",
+      "newspaper",
+      "skeletonkeyv2",
+      "violin",
+      "ukelele",
+      "taylor77",
+      "ballons",
+      "001071gift",
+      "ring",
+      "trumpet",
+      "clarinet",
+      "bagpipe",
+      "tambourine",
+      "00002drums-BR-IT-PT-FR-ES-IN-MX-CO-VE-PE-CL-AR-UY",
+      "067mic",
+      "098horn",
+      "047z1cheese",
+      "047z2banana",
+      "cupcake",
+      "lollipopv2",
+      "047z3baguette",
+      "icecreamsandwichvs",
+      "icecreamcone",
+      "rollingpinv2",
+      "sciencebeakerv2",
+      "064lasergun",
+      "fan",
+      "prideflag",
+      "053glove",
+      "089candle",
+      "072dreidel",
+      "nutcracker",
+      "gingerbreadcookie",
+      "001084candycane",
+      "mehndi",
+      "iandroidnytattoo"
+    ],
+    "animation": [
+      "basketball",
+      "drums",
+      "dust",
+      "five",
+      "ha",
+      "hankerchief",
+      "he",
+      "heart",
+      "lolli",
+      "peace_fingers",
+      "phone",
+      "popcornbag",
+      "prideflag",
+      "smack",
+      "steam",
+      "tear",
+      "z",
+      "zzzzz"
+    ],
+    "skin": [
+      "antenna",
+      "arm",
+      "body",
+      "eye",
+      "foot",
+      "hand",
+      "head",
+      "leg",
+      "shoulder"
+    ]
+  },
+  "invScale": {
+    "beard": {
+      "x": 0.5555555555555556,
+      "y": 0.5555555555555556
+    },
+    "glasses": {
+      "x": 0.5555555555555556,
+      "y": 0.5555555555555556
+    },
+    "shoes": {
+      "x": 0.9090909090909091,
+      "y": 0.9090909090909091
+    },
+    "pants": {
+      "x": 0.9090909090909091,
+      "y": 0.3333333333333333
+    },
+    "hair": {
+      "x": 0.5555555555555556,
+      "y": 0.5555555555555556
+    },
+    "shirt": {
+      "x": 0.8333333333333334,
+      "y": 0.6666666666666666
+    },
+    "head": {
+      "x": 0.5555555555555556,
+      "y": 0.5555555555555556
+    },
+    "body": {
+      "x": 0.8333333333333334,
+      "y": 0.6666666666666666
+    },
+    "face": {
+      "x": 0.5555555555555556,
+      "y": 0.5555555555555556
+    },
+    "arm": {
+      "x": 0.8333333333333334,
+      "y": 0.8333333333333334
+    },
+    "animation": {
+      "x": 1,
+      "y": 1
+    },
+    "skin": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "scale": 1,
+  "count": 3,
+  "size": 4096,
+  "prefix": "dotcom4096@1x/"
+}
